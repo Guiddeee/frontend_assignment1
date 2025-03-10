@@ -1,0 +1,20 @@
+#is_fly{
+    padding: auto;
+    display: inline;
+}
+
+header{
+    text-align: center;
+}
+
+select{
+    padding: auto;
+    display: block;
+    width: 600px;
+    margin: auto;
+}
+
+input{
+    margin-bottom: 20px;
+    padding: auto;
+}
